@@ -9,4 +9,5 @@ void mai(){
   print(list3);
   list3.add(10);
   list3.addAll([11,12,13]);
+  print(list3);
 }
